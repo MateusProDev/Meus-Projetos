@@ -65,17 +65,19 @@ footer {
 .rodape ul li a {
     color: rgb(255, 255, 255);
     margin-top: 10px;
+    font-size: 10px;
 }
 
 .end {
     margin: 25px -40px 20px 40px;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .end ul li {
-    margin: 10px 0px 0px 0px;
+    margin: 10px 0px -10px 0px;
     display: flex;
 }
+
 
 .icon {
     margin: 10px;
